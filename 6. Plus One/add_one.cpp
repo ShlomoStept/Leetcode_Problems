@@ -23,7 +23,7 @@
 
 
  2. Come up with possible Solutions
-    -> (i)  (1) sort the array:
+    -> (i) : There seem to be 3 core cases
                 (i) Easy: the easy case is if the array is empty, simply add one --> not sure if this is a valid case
                 (ii) Easy: the last digit is not a nine, simple add one to it
                 (ii) hard: while the last digit is = 9,  (a) make it zero, move to the next element and repeat.
