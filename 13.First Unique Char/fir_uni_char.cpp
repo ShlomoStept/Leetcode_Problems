@@ -1,6 +1,6 @@
 /*
     Name:  Shlomo Stept
-    Date:  2/25/22 
+    Date:  2/28/22 
     Project Name:  LeetCode Problem: Find first unique charachter
     Description: Find the first intance of a unique charachter and return that index                  
 */
